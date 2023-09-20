@@ -25,7 +25,7 @@
             <button class="w-100 btn btn-lg btn-primary" type="submit">Login</button>
         </form>
         <small class="d-block text-center mt-2">
-            Doesn't have an account? <a href="/register" >Click here!</a>
+            belum punya akun <a href="/register" >Click here!</a>
         </small>
         <p class="mt-2 mb-3 text-body-secondary text-center">&copy; 2023</p>
 
